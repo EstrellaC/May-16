@@ -21,7 +21,7 @@ Calcularon la mortalidad instantánea anual para estimar una supervivencia apare
 
 Imagen 1. Localidades muestreadas.
 
-Los números que presentaron para la mortalidad especial y temporal, describen que la media anual de mortalidad decrece conforme incrementa la talla del organismo, la mortalidad total estimada para los grupos menores a 178 mm es generalmente alta  y variada entre los sitos del norte de California así como entre el norte y el sur. La mortalidad natural en los organismos de la talla mayor fue baja dentro de la reserva. 
+Los números que presentaron para la mortalidad especial y temporal, describen que la media anual de mortalidad decrece conforme incrementa la talla del organismo, la mortalidad total estimada para los grupos menores a 178 mm es generalmente alta  y variada entre los sitos del norte de California así como entre el norte y el sur. La mortalidad natural en los organismos de talla mayor fue baja dentro de la reserva. 
 
 Por último, la estimación de mortalidad en la localidad de Carolina del Norte durante 5 años ha cambiado poco, pero la localidad sur muestreada durante 4 años ha variado mas y en todas las tallas.
 
