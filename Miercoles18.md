@@ -17,7 +17,7 @@ Pocos estimadores de mortalidad existen para las poblaciones de abulón rojo en 
 
 Calcularon la mortalidad instantánea anual para estimar una supervivencia aparente de tres diferentes clases de tallas de abulón y compararon la mortalidad entre los sitios. Los criterios de agrupación dentro de la clase fueron considerando la longitud máxima de la concha, en el grupo pequeño están individuos de 100 mm o menos, en el grupo mediano están los individuos de 100.1 mm a 178 mm y el grupo grande los organismos mayores a 178 mm.
 
-<img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSup6Dp9Xr1LexWHLZ36Up5VLCYja-5DWoKrd4sBtplirtQr1ayhg" / width = 30%>
+<img src="https://raw.githubusercontent.com/EstrellaC/May-16/master/spacial%20temporal%20%26%20size-specific.jpg" / width = 50%>
 
 Imagen 1. Localidades muestreadas.
 
@@ -25,4 +25,4 @@ Los números que presentaron para la mortalidad especial y temporal, describen q
 
 Por último, la estimación de mortalidad en la localidad de Carolina del Norte durante 5 años ha cambiado poco, pero la localidad sur muestreada durante 4 años ha variado mas y en todas las tallas.
 
-Como conclusión las tasas de mortalidad natural y por pesca, son poco conocidos para abulón rojo, pero son fundamentales para la comprensión de la población dinámica y ecología de esta especie
+Como conclusión las tasas de mortalidad natural y por pesca, son poco conocidos para abulón rojo, pero son fundamentales para la comprensión de la dinámica poblacional y ecología de esta especie.
