@@ -18,9 +18,9 @@ El presente estudio se desarrolló a partir de las implicaciones negativas que s
 
 Figura 1. Disolución de la concha de un pterópodo en agua acidificada, mariposa de mar. 
 
-El estudio se realizó a partir de la toma de muestras de manto de 39 individuos colectados en ocho localidades en la Costa Oeste de Estados Unidos, se realizó una extracción de RNA del tejido para armar una librería de cDNA mediante secuenciación. Para la detección de SNP´s utilizaron un kit de herramientas de análisis del genoma, final mente obtuvieron una lista de sitios polimórficos de cada genotipo asignada a los 39 individuos.
+El estudio se realizó a partir de la toma de muestras de manto de 39 individuos colectados en ocho localidades en la Costa Oeste de Estados Unidos, se realizó una extracción de RNA del tejido para armar una librería de cDNA mediante secuenciación. Para la detección de SNP´s utilizaron un kit de herramientas de análisis del genoma, finalmente obtuvieron una lista de sitios polimórficos de cada genotipo asignada a los 39 individuos.
 
-Para el análisis de datos, los organismos fueron agrupados en tres poblaciones. Posteriormente realizaron un análisis de componentes principales, además se una eliminación de los sitios para los cuales todos los organismos habían sido heterocigotos y los sitios en donde las frecuencia del alelo fue menor al 2.5%
+Para el análisis de datos, los organismos fueron agrupados en tres poblaciones. Posteriormente realizaron un análisis de componentes principales, además de una eliminación de los sitios para los cuales todos los organismos habían sido heterocigotos y los sitios en donde las frecuencia del alelo fue menor al 2.5%
 
 <img src="https://github.com/EstrellaC/May-16/blob/master/Transcriptome-wide.jpg?raw=true" / width = 95%>
 
