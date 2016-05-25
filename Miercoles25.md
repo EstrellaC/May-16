@@ -14,7 +14,9 @@
 
 El presente estudio se desarrolló a partir de las implicaciones negativas que se presentan en las poblaciones marinas debido al calentamiento global. Algunos de sus efectos son en el incremento de temperatura, la cual puede asociarse con una mayor incidencia de enfermedades,  así como la variación en la concentración de oxígeno que se relaciona con problemas de hipoxia y  el decremento pH, que provoca mayor consumo de energía en el organismo para mantener sus conchas así como una deficiencia de su formación en etapas larvales. 
 
-<img src="http://tendenzias.com/wp-content/uploads/2015/04/efectos-de-la-acidificacin-de-los-ocanos_thumb-2.jpg" / width = 50%>
+<img src="https://lamamapachama.files.wordpress.com/2014/03/erosic3b3n.png" / width = 80%>
+
+Figura 1. Disolución de la concha de un pterópodo en agua acidificada, mariposa de mar. 
 
 El estudio se realizó a partir de la toma de muestras de manto de 39 individuos colectados en ocho localidades en la Costa Oeste de Estados Unidos, se realizó una extracción de RNA del tejido para armar una librería de cDNA mediante secuenciación. Para la detección de SNP´s utilizaron un kit de herramientas de análisis del genoma, final mente obtuvieron una lista de sitios polimórficos de cada genotipo asignada a los 39 individuos.
 
